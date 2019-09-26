@@ -18,4 +18,4 @@ palindrome("race car");<br/>
 palindrome("almostomla");<br/>
 
 ## LICENSE
-The MIT License - See [license.md](https://github.com/hajczek/palindrome-checker/blob/master/license/License.md)
+The MIT License - See [license.md](https://github.com/hajczek/palindrome_checker/blob/master/license/License.md)
