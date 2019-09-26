@@ -11,11 +11,11 @@ A palindrome is a word or sentence that's spelled the same way both forward and 
 
 ## HOW TO CHECK THIS CODE
 
-For run this code you must use some of code like this:
+For run this code you must use some of code like this with the text which you want to check if is a palindrome:
 
-palindrome("A man, a plan, a canal. Panama");
-palindrome("race car");
-palindrome("almostomla");
+palindrome("A man, a plan, a canal. Panama");<br/>
+palindrome("race car");<br/>
+palindrome("almostomla");<br/>
 
 ## LICENSE
 The MIT License - See [license.md](https://github.com/hajczek/palindrome-checker/blob/master/license/License.md)
